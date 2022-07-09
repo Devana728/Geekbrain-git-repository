@@ -29,3 +29,12 @@ git status
 ```
 git diff
 ```
+## перейти в коммит
+чтобы перейти в коммит введите команду
+```
+git checkout commit number
+```
+вернуться в последний
+```
+git checkout master
+```
